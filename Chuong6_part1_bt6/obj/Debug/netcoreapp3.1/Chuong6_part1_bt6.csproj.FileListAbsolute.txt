@@ -1,0 +1,13 @@
+D:\cslt2\Chuong6_part1_bt6\bin\Debug\netcoreapp3.1\Chuong6_part1_bt6.exe
+D:\cslt2\Chuong6_part1_bt6\bin\Debug\netcoreapp3.1\Chuong6_part1_bt6.deps.json
+D:\cslt2\Chuong6_part1_bt6\bin\Debug\netcoreapp3.1\Chuong6_part1_bt6.runtimeconfig.json
+D:\cslt2\Chuong6_part1_bt6\bin\Debug\netcoreapp3.1\Chuong6_part1_bt6.runtimeconfig.dev.json
+D:\cslt2\Chuong6_part1_bt6\bin\Debug\netcoreapp3.1\Chuong6_part1_bt6.dll
+D:\cslt2\Chuong6_part1_bt6\bin\Debug\netcoreapp3.1\Chuong6_part1_bt6.pdb
+D:\cslt2\Chuong6_part1_bt6\obj\Debug\netcoreapp3.1\Chuong6_part1_bt6.csprojAssemblyReference.cache
+D:\cslt2\Chuong6_part1_bt6\obj\Debug\netcoreapp3.1\Chuong6_part1_bt6.csproj.CoreCompileInputs.cache
+D:\cslt2\Chuong6_part1_bt6\obj\Debug\netcoreapp3.1\Chuong6_part1_bt6.AssemblyInfoInputs.cache
+D:\cslt2\Chuong6_part1_bt6\obj\Debug\netcoreapp3.1\Chuong6_part1_bt6.AssemblyInfo.cs
+D:\cslt2\Chuong6_part1_bt6\obj\Debug\netcoreapp3.1\Chuong6_part1_bt6.dll
+D:\cslt2\Chuong6_part1_bt6\obj\Debug\netcoreapp3.1\Chuong6_part1_bt6.pdb
+D:\cslt2\Chuong6_part1_bt6\obj\Debug\netcoreapp3.1\Chuong6_part1_bt6.genruntimeconfig.cache
